@@ -125,6 +125,11 @@ END
 ````
 
 5. Execute the script.
+6. Now, the result should be:
+
+```
+Command Completed Sucessfully
+```
    
 ### 📝 Customize Exclusions
 
